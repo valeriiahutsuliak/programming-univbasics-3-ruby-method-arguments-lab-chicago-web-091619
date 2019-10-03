@@ -2,9 +2,13 @@
 # the answers. You should ONLY check those answers if you get totally stuck. The important
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
- Diff:
-@@ -1,2 +1 @@	       
--Hi, my name is Valeriia.	     
+ def introduction(Valeriia)
+  puts "Hi, my name is #{name}."
+end
+
+def introduction_with_language(Valeriia,Ukraine)
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
 
 
